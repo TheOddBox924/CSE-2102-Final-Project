@@ -1,0 +1,38 @@
+[
+    {
+        "username": "user_1",
+        "password": "password123!",
+        "account_type": 1,
+        "data": 
+        {
+            "shopping_cart": [
+                {"courseID": "CSE 5002", "title":"Data Mining", "creditHours":2, "openings":6}
+            ],
+            "current_courses": [
+                {}
+            ],
+            "past_courses": [
+                {}
+            ]
+        }
+        
+    },
+    {
+        "username": "user_2",
+        "password": "password321!",
+        "account_type": 1,
+        "data": 
+        {
+            "shopping_cart": [
+                {}
+            ],
+            "current_courses": [
+                {}
+            ],
+            "past_courses": [
+                {}
+            ]
+        }
+        
+    }
+]
